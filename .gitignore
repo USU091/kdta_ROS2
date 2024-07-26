@@ -1,6 +1,12 @@
 install/
 build/
 
+
+
+
+
+
+
 *.out
 *.bmp
 *.avi
